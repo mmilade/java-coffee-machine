@@ -111,9 +111,6 @@ public class CoffeeMachine {
 
                         System.out.println(displayMessage(numberOfCupsRequired, amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption));
 
-                        // Does not seem to work
-                        // updateStock(amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, numberOfDisposableCupsAvailable, moneyAvailable, coffeeOption);
-
                         numberOfCupsWhichCanBeMade = howManyCupsOfCoffeeCanBeMade(amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption);
 
                         if (numberOfCupsRequired <= numberOfCupsWhichCanBeMade) {
