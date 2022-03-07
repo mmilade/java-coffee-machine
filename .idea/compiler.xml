@@ -44,6 +44,10 @@
       <module name="Coffee_Machine.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
       <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_expression-Days_of_the_week.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_expression-Meteorological_seasons.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_expression-Months_of_the_year.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_expression-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-The_main_method-Fixing_errors_in_main.main" target="11" />
       <module name="Coffee_Machine.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
       <module name="Coffee_Machine.Topics-The_main_method-No_main_args.main" target="11" />
