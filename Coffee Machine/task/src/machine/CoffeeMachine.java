@@ -108,35 +108,26 @@ public class CoffeeMachine {
                     int coffeeOption = Integer.parseInt(scanner.nextLine());
 
                     if (coffeeOption == 1) {
-
                         System.out.println(displayMessage(numberOfCupsRequired, amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption));
-
                         numberOfCupsWhichCanBeMade = howManyCupsOfCoffeeCanBeMade(amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption);
 
                         if (numberOfCupsRequired <= numberOfCupsWhichCanBeMade) {
-
                             updateStock(coffeeOption);
                         }
 
                     } else if (coffeeOption == 2) {
-
                         System.out.println(displayMessage(1, amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption));
-
                         numberOfCupsWhichCanBeMade = howManyCupsOfCoffeeCanBeMade(amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption);
 
                         if (numberOfCupsRequired <= numberOfCupsWhichCanBeMade) {
-
                             updateStock(coffeeOption);
                         }
 
                     } else if (coffeeOption == 3) {
-
                         System.out.println(displayMessage(1, amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption));
-
                         numberOfCupsWhichCanBeMade = howManyCupsOfCoffeeCanBeMade(amountOfWaterAvailable, amountOfMilkAvailable, amountOfCoffeeBeansAvailable, coffeeOption);
 
                         if (numberOfCupsRequired <= numberOfCupsWhichCanBeMade) {
-
                             updateStock(coffeeOption);
                         }
 
@@ -156,7 +147,6 @@ public class CoffeeMachine {
                     amountOfCoffeeBeansAvailable += Integer.parseInt(scanner.nextLine());
                     System.out.println("Write how many disposable cups of coffee you want to add: ");
                     numberOfDisposableCupsAvailable += Integer.parseInt(scanner.nextLine());
-
                     break;
 
                 case "take":
