@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Account_and_its_owner.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Automatically_generated_constructor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Constructor_definition.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Cookie.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Greatest_common_divisor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Vowel_or_not.main" target="11" />
+      <module name="Coffee_Machine.Topics-Defining_classes-Correct_fields.main" target="11" />
+      <module name="Coffee_Machine.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Coffee_Machine.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Days_of_week.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Coffee_Machine.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Complex_numbers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Patient_needs_a_doctor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Find_reference_types.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Preparing_full_name.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Coffee_Machine.Topics-The_main_method-Fixing_errors_in_main.main" target="11" />
+      <module name="Coffee_Machine.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Coffee_Machine.Topics-The_main_method-No_main_args.main" target="11" />
+      <module name="Coffee_Machine.Topics-The_main_method-Print__Hello,_Java.main" target="11" />
+      <module name="Coffee_Machine.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
